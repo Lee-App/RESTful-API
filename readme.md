@@ -1,6 +1,10 @@
 # RESTful API
 RESTful API 공부, Django의 restframework를 사용
 
+## 참고 홈페이지
+- https://www.djangoproject.com/
+- https://www.django-rest-framework.org/
+
 ## 게시판 홈페이지
 - 기능
     - 회원(auth)
