@@ -1,11 +1,12 @@
 # RESTful API
-### RESTful API 공부
+RESTful API 공부, Django의 restframework를 사용
+
 ## 게시판 홈페이지
 - 기능
-    - 회원
-    - 게시판
+    - 회원(auth)
+    - 게시판(post)
 
-## 회원
+## 회원 
 
 - 회원가입(C)
 - 회원정보(R)
